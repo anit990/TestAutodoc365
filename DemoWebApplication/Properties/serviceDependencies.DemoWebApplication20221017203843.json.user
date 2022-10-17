@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-10-17T17:48:58.1576957Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "learn-cdf5d457-d1fa-48c9-9e25-dd55ec9a44d1"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "d4cb7e6d-5ba7-4e39-b21c-813095f6858f"
+    }
+  }
+}
